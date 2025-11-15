@@ -13,10 +13,6 @@ AK_LOBBY_APP_ID  = 1        ' Lobby Enabled Game
 AK_LOBBY_KEY_USERNAME = 0   ' Lobby Username key
 AK_LOBBY_KEY_SERVER = 7     ' 
 
-' my AppKey
-AK_CREATOR_ID = $5364       ' creator id
-AK_APP_ID = 2               ' chess
-AK_KEY_SHOWHELP = 0         ' Shown help
 
 DATA NAppKeyBlock()=0,0,0
 
